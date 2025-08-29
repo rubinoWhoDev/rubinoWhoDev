@@ -4,7 +4,7 @@
 👨‍💻 I’m interested in Software Development, specifically Game, Web and Mobile development.  
 📫 You can reach me at: rubino.r@studium.unict.it  
 
-On my GitHub page you will find both personal projects and programs I wrote during my student carreer _(more coming I guess)_.
+On my GitHub page you will find both personal projects and programs I wrote during my student career _(more coming I guess)_.
 ### 💻 Projects I'm proud of:
 - 🃏 [Briscola Card Game for 5 players](https://github.com/rubinoWhoDev/briscola5pp)
 - ⛳ [2D Golf physics simulator](https://github.com/rubinoWhoDev/Glof)
