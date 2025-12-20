@@ -10,6 +10,7 @@ On my GitHub page you will find both personal projects and programs I wrote duri
 - ⛳ [2D Golf physics simulator](https://github.com/rubinoWhoDev/Glof)
 - 🎧 [Database for a Music Streaming Service](https://github.com/rubinoWhoDev/dmimusic-db)
 - 🕹 [Hanged Man game over UDP sockets](https://github.com/rubinoWhoDev/impiccato_udp)
+- 🎙️ [Keyword spotting mobile App](https://github.com/rubinoWhoDev/keyword-radar))
 
 ---
 _i love memes btw._
