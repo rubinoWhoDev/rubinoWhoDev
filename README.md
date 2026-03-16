@@ -1,6 +1,6 @@
 ## Hi 👋, I’m ***@rubinoWhoDev***  
 
-📚 I'm a Computer Science student, currently attending the third year at University of Catania.  
+🎓 **B.Sc. in Computer Science** from University of Catania 
 👨‍💻 I’m interested in Software Development, specifically Game, Web and Mobile development.  
 📫 You can reach me at: rubino.r@studium.unict.it  
 
@@ -11,7 +11,6 @@ On my GitHub page you will find both personal projects and programs I wrote duri
 - 🃏 [Briscola Card Game for 5 players](https://github.com/rubinoWhoDev/briscola5pp)
 - 🎧 [Database for a Music Streaming Service](https://github.com/rubinoWhoDev/dmimusic-db)
 - 🕹 [Hanged Man game over UDP sockets](https://github.com/rubinoWhoDev/impiccato_udp)
-- ⛳ [2D Golf physics simulator](https://github.com/rubinoWhoDev/Glof)
 
 ---
 _i love memes btw._
