@@ -1,6 +1,6 @@
 ## Hi 👋, I’m ***@rubinoWhoDev***  
 
-🎓 **B.Sc. in Computer Science** from University of Catania.
+🎓 **B.Sc. in Computer Science** from University of Catania.  
 👨‍💻 I’m interested in Software Development, specifically Game, Web and Mobile development.  
 📫 You can reach me at: rubino.r@studium.unict.it  
 
