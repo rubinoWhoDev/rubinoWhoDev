@@ -6,11 +6,12 @@
 
 On my GitHub page you will find both personal projects and programs I wrote during my student career _(more coming I guess)_.
 ### 💻 Projects I'm proud of:
+- 🎙️ [Keyword spotting mobile App](https://github.com/rubinoWhoDev/keyword-radar)
+- 🎮 [Retro platformer Game](https://github.com/rubinoWhoDev/astrogunner1989)
 - 🃏 [Briscola Card Game for 5 players](https://github.com/rubinoWhoDev/briscola5pp)
-- ⛳ [2D Golf physics simulator](https://github.com/rubinoWhoDev/Glof)
 - 🎧 [Database for a Music Streaming Service](https://github.com/rubinoWhoDev/dmimusic-db)
 - 🕹 [Hanged Man game over UDP sockets](https://github.com/rubinoWhoDev/impiccato_udp)
-- 🎙️ [Keyword spotting mobile App](https://github.com/rubinoWhoDev/keyword-radar)
+- ⛳ [2D Golf physics simulator](https://github.com/rubinoWhoDev/Glof)
 
 ---
 _i love memes btw._
